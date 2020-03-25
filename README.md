@@ -10,6 +10,16 @@
 
 inflearn에서 무료로 열어둔 강의이다.
 
-https://www.inflearn.com/course/node-js-노드제이에스-강좌/lecture/735
+### Node.js 강좌
 
 Let's get it
+
+
+
+#### 두번쨰 강의
+
+2020.03.25~
+
+###Node.js 웹개발로 알아보는 백엔드 자바스크립트의 이해
+
+라는 강의이다.
